@@ -1,12 +1,11 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thathsilu;Creative+Developer+Based+in+Sri+Lanka" alt="Typing SVG" />
-  </a>
-
+  <h1 align="center">Hi 👋, I'm Thathsilu</h1>
+  
   <br />
 
   <p align="center" style="max-width: 600px;">
+    Creative Developer based in Sri Lanka. <br>
     In addition to coding and development, specializing in video editing, motion graphics, and graphic design. <br>
     Creating digital experiences that blend technical expertise with creative vision.
   </p>
@@ -91,12 +90,5 @@
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite&hide_border=true" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true" alt="languages" />
-  </p>
 
 </div>
