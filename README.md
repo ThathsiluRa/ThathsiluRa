@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxeXF4b3RxeXF4b3RxeXF4b3RxeXF4b3RxeXF4b3RxeXF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="My Animation" width="300" height="300" />
+  
+  <br />
+
   <h1 align="center">Hi 👋, I'm Thathsilu</h1>
   
   <br />
